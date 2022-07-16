@@ -409,20 +409,12 @@ footer Section Styling Start
     padding: 10px 30px;
     font-size: 20px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-#footer .links a {
-    margin-right: 30px;
-    font-size: 24px;
-    transition: all 0.3s ease-in-out;
-}
-#footer .links a:hover {
-    color: var(--clr);
+    justify-content: center;
 }
 #year {
     font-size: 16px;
     color: #fff;
+    text-align: center;
 }
 /* ================================
 footer Section Styling End
