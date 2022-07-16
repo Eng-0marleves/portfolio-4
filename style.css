@@ -395,6 +395,9 @@ contact Section Styling Start
     #contact .container .column form .el textarea {
         width: 100%;
     }
+    #contact .inputs {
+        order: 2;
+    }
 }
 /* ================================
 contact Section Styling End
